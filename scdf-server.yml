@@ -1,5 +1,5 @@
 security:
-      basic:
+    basic:
         enabled: true
         realm: Spring Cloud Data Flow
     spring:
